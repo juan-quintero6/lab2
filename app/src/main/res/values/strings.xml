@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Messenger</string>
+    <string name="saludo">Escriba un mensaje</string>
+    <string name="enviar">Confirmar</string>
+</resources>
